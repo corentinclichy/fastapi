@@ -3,7 +3,7 @@
 - 
  ---
 
-# FastAPI Example THIS IS A CHANGE
+# FastAPI Example
 This example starts up a [﻿FastAPI](https://fastapi.tiangolo.com/) server.
 
 ## ✨ Features
