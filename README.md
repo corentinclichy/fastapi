@@ -21,5 +21,5 @@ FastAPI provides automatic documentation to call and test your API directly from
 
 
 
-[﻿Untitled Figure](https://app.tryeraser.com/workspace/HhAqtftqMZykiTvWF5CU?elements=gtkvkJ-AmAsJg9vf9CAQ9w) 
+[﻿Untitled Figure](https://app.tryeraser.com/workspace/HhAqtftqMZykiTvWF5CU?elements=Q25Y3GXU9u6HjvFdKWMjDQ) 
 
