@@ -17,3 +17,9 @@ This example starts up a [﻿FastAPI](https://fastapi.tiangolo.com/) server.
 ## 📝 Notes
 FastAPI provides automatic documentation to call and test your API directly from the browser. You can access it at `/docs` with [﻿Swagger](https://github.com/swagger-api/swagger-ui) or at `/redoc` with [﻿Redoc](https://github.com/Rebilly/ReDoc).[﻿www.readership.fyi/?ref=producthunt](https://www.readership.fyi/?ref=producthunt) 
 
+
+
+
+
+[﻿Untitled Figure](https://app.tryeraser.com/workspace/HhAqtftqMZykiTvWF5CU?elements=gtkvkJ-AmAsJg9vf9CAQ9w) 
+
